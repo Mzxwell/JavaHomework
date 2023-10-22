@@ -1,3 +1,5 @@
+package ALU.src;
+
 public class ALU {
     public DataType add(DataType src, DataType dest) {
         String s = src.toString(), d = dest.toString();

@@ -1,4 +1,3 @@
-package src.main.java.util;
 
 import org.junit.Test;
 

@@ -1,5 +1,3 @@
-package src.main.java.util;
-
 import static java.lang.Math.pow;
 
 public class Transformer {

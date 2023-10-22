@@ -1,3 +1,5 @@
+package ALU.src;
+
 import java.util.Collections;
 public class DataType {
     private final byte[] data = new byte[4];
